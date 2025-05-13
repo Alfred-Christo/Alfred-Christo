@@ -30,7 +30,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfred-christo&theme=radical&hide_border=true&background=0D1117" alt="Alfred's Github Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alfred-christo&theme=radical&hide_border=true&background=0D1117&ring=FF2929&fire=FF2929&currStreakLabel=FF2929" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=alfred-christo&theme=radical&hide_border=true&ring=FF2929&fire=FF2929&currStreakLabel=FF2929" />
+    <img src="https://streak-stats.demolab.com?user=alfred-christo&theme=radical&hide_border=true&background=0D1117&ring=FF2929&fire=FF2929&currStreakLabel=FF2929" alt="GitHub Streak Stats" />
+  </picture>
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfred-christo&theme=radical" width="100%" alt="Alfred's Contribution Graph"/>
 </div>
