@@ -30,8 +30,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfred-christo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Alfred's Github Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfred-christo&theme=radical&hide_border=true" alt="Alfred's Github Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfred-christo&theme=radical&hide_border=true&background=0D1117" alt="Alfred's Github Streak"/>
 </div>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -105,6 +104,6 @@
 </div>
 
 <div align="center">
-  <i>"Vibe coding is actually fun - Because when you love what you do, every line of code becomes a melody! 🎵"</i>
+  <i>"Vibe coding is actually fun "</i>
 </div>
 
