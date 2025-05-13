@@ -1,108 +1,152 @@
-<!-- Header with animated text and profile views counter -->
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Alfred+Christo;Full+Stack+Developer;AI+%26+ML+Enthusiast)](https://git.io/typing-svg)</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Alfred+Christo;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=alfred-christo&label=Profile%20views&color=6A5ACD&style=flat" alt="profile-views" />
-    <a href="https://github.com/alfred-christo?tab=followers">
-      <img src="https://img.shields.io/github/followers/alfred-christo?label=Followers&style=social" alt="followers-count">
-    </a>
-  </p>
+  [![Profile Views](https://komarev.com/ghpvc/?username=alfred-christo&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/alfred-christo)
+  [![GitHub followers](https://img.shields.io/github/followers/alfred-christo?logo=github&style=for-the-badge&color=blueviolet)](https://github.com/alfred-christo?tab=followers)
+  
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alfred-christo/alfred-christo/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/alfred-christo/alfred-christo/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+<br/>
+
+<!-- Title Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=180&section=header&text=Software%20Engineer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Specializing%20in%20AI%20and%20Full%20Stack%20Development&descAlignY=55&descAlign=50"/>
+</div>
+
+<br/>
 
 <!-- About Me Section -->
 ## 🚀 About Me
 
-> Software Development Engineer with expertise in AI, Data Science, and API Development
+> _"Transforming ideas into elegant solutions through code"_
 
 I am a passionate Software Development Engineer with a strong foundation in Artificial Intelligence and Full Stack Development. My expertise includes:
 
-- 🔨 Building scalable REST APIs and microservices
-- 🤖 Integrating AI/ML solutions using LLMs and deep learning
-- 📱 Developing responsive web and mobile applications
-- ☁️ Cloud architecture and deployment (GCP)
-- 🛠️ Performance optimization and system design
+<div align="center">
+  
+  ```javascript
+  const expertise = {
+    backend: ["REST APIs", "Microservices", "System Design"],
+    ai_ml: ["LLMs", "Deep Learning", "TensorFlow"],
+    frontend: ["Responsive Design", "Modern Frameworks", "UI/UX"],
+    cloud: ["GCP", "Scalable Architecture", "DevOps"],
+    philosophy: "Clean Code | Continuous Learning | Innovation"
+  };
+  ```
+  
+</div>
 
 <!-- Current Work Section -->
 ## 🔭 What I'm Up To
 
-- 🏗️ Currently building [MediJI](https://github.com/Alfred-Christo/MediJI) - An innovative healthcare solution
-- 📚 Learning **NestJS** to enhance backend development skills
-- 🌱 Exploring latest advancements in AI/ML
-- 👯 Open to collaborate on innovative projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🏗️ Building</h3>
+        <a href="https://github.com/Alfred-Christo/MediJI">
+          <img src="https://img.shields.io/badge/MediJI-Healthcare_Innovation-brightgreen?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td align="center">
+        <h3>📚 Learning</h3>
+        <img src="https://img.shields.io/badge/NestJS-Advanced_Backend-E0234E?style=for-the-badge&logo=nestjs" />
+      </td>
+      <td align="center">
+        <h3>🌱 Exploring</h3>
+        <img src="https://img.shields.io/badge/AI/ML-Latest_Advancements-FF6F00?style=for-the-badge&logo=tensorflow" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
-<details>
-<summary>Frontend Development</summary>
+<div align="center">
+
+<details open>
+<summary><h3>🎨 Frontend Development</h3></summary>
 <br>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 </details>
 
-<details>
-<summary>Backend Development</summary>
+<details open>
+<summary><h3>⚙️ Backend Development</h3></summary>
 <br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 </details>
 
-<details>
-<summary>AI/ML Tools</summary>
+<details open>
+<summary><h3>🤖 AI/ML Tools</h3></summary>
 <br>
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 </details>
 
-<details>
-<summary>DevOps & Tools</summary>
+<details open>
+<summary><h3>🔧 DevOps & Tools</h3></summary>
 <br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 </details>
+
+</div>
 
 <!-- Contact Section -->
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/alfred-christo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+  &nbsp;
   <a href="mailto:alfred250305@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/alfr._.d" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/badge/Follow_on_Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-</p>
+</div>
 
 <!-- Fun Fact Section -->
 ## ⚡ Fun Fact
-> "Vibe coding is actually fun" - Because when you love what you do, every line of code becomes a melody! 🎵
+<div align="center">
+  
+  > _"Vibe coding is actually fun - Because when you love what you do, every line of code becomes a melody! 🎵"_
+  
+</div>
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line"/>
+</div>
 
