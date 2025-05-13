@@ -1,26 +1,120 @@
-<h1 align="center">Hi 👋, I'm Alfred Christo</h1>
-<h3 align="center">I am an enthusiastic SDE with a strong foundation in Artificial Intelligence, Data Science and API's, Complemented by hands-on experience from multiple projects and Internships. Skilled in API designing, alongside expertised in integrating AI technologies such as Large Language Models (LLMs) and deep learning frameworks. Passionate about continuous learning and innovation, with a focus in creating efficient, scalable solutions and optimizing performance across both mobile, Web and AI-driven projects</h3>
+<!-- Header with animated text and profile views counter -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Alfred+Christo;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=alfred-christo&label=Profile%20views&color=6A5ACD&style=flat" alt="profile-views" />
+    <a href="https://github.com/alfred-christo?tab=followers">
+      <img src="https://img.shields.io/github/followers/alfred-christo?label=Followers&style=social" alt="followers-count">
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on [MediJI](https://github.com/Alfred-Christo/MediJI)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alfred-christo/alfred-christo/output/github-contribution-grid-snake.svg" />
+</div>
 
-- 🌱 I’m currently learning **Nest JS**
+<!-- About Me Section -->
+## 🚀 About Me
 
-- 💬 Ask me about **REST APIs, React**
+> Software Development Engineer with expertise in AI, Data Science, and API Development
 
-- 📫 How to reach me **alfred250305@gmail.com**
+I am a passionate Software Development Engineer with a strong foundation in Artificial Intelligence and Full Stack Development. My expertise includes:
 
-- ⚡ Fun fact **Vibe coding is actually fun**
+- 🔨 Building scalable REST APIs and microservices
+- 🤖 Integrating AI/ML solutions using LLMs and deep learning
+- 📱 Developing responsive web and mobile applications
+- ☁️ Cloud architecture and deployment (GCP)
+- 🛠️ Performance optimization and system design
 
-<h3 align="left">Connect with me:</h3>
+<!-- Current Work Section -->
+## 🔭 What I'm Up To
+
+- 🏗️ Currently building [MediJI](https://github.com/Alfred-Christo/MediJI) - An innovative healthcare solution
+- 📚 Learning **NestJS** to enhance backend development skills
+- 🌱 Exploring latest advancements in AI/ML
+- 👯 Open to collaborate on innovative projects
+
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
+
+<details>
+<summary>Frontend Development</summary>
+<br>
 <p align="left">
-<a href="https://linkedin.com/in/alfred-christo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfred-christo" height="30" width="40" /></a>
-<a href="https://instagram.com/alfr._.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfr._.d" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary>Backend Development</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary>AI/ML Tools</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+</p>
+</details>
+
+<details>
+<summary>DevOps & Tools</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</p>
+</details>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfred-christo&show_icons=true&theme=tokyonight" alt="github-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfred-christo&theme=tokyonight" alt="github-streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfred-christo&layout=compact&theme=tokyonight" alt="top-langs" />
+</div>
+
+<!-- Contact Section -->
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/alfred-christo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:alfred250305@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://instagram.com/alfr._.d" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Fun Fact Section -->
+## ⚡ Fun Fact
+> "Vibe coding is actually fun" - Because when you love what you do, every line of code becomes a melody! 🎵
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfred-christo&show_icons=true&locale=en&layout=compact" alt="alfred-christo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfred-christo&" alt="alfred-christo" /></p>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
