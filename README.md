@@ -31,6 +31,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfred-christo&theme=radical&hide_border=true&background=0D1117" alt="Alfred's Github Streak"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfred-christo&theme=radical" width="100%" alt="Alfred's Contribution Graph"/>
 </div>
 
 <h2 align="center">💻 Tech Stack</h2>
