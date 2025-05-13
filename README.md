@@ -22,147 +22,157 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=539bf5&text=About%20Me&height=150&fontSize=55&desc=Passionate%20Software%20Engineer&descAlignY=75&descAlign=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,207&height=180&section=header&text=About%20Me&fontSize=60&fontAlignY=35&desc=Software%20Development%20Engineer&descSize=25&descAlignY=55&animation=twinkling"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=100&lines=A+passionate+Software+Development+Engineer+with+expertise+in+AI+and+Full+Stack+Development.;Turning+complex+problems+into+elegant+solutions+through+clean+code+and+innovative+thinking." alt="Bio" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD7F7&center=true&vCenter=true&random=false&width=555&lines=%F0%9F%8E%AF+Specializing+in+AI+%26+Full+Stack+Development;%F0%9F%9A%80+Building+Scalable+%26+Innovative+Solutions;%F0%9F%92%A1+Turning+Complex+Ideas+into+Elegant+Code" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
+<!-- Expertise Cards -->
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
+<!-- Backend Development -->
+<details open>
+<summary><h3>🔙 Backend Development</h3></summary>
 <div align="center">
-  <details open>
-    <summary><h2>🎯 Core Expertise</h2></summary>
-    <br/>
-    
-```javascript
-const aboutAlfred = {
-  title: "Software Development Engineer",
-  focus: ["AI/ML", "Full Stack Development", "System Architecture"],
-  
-  expertise: {
-    backend: {
-      apis: ["REST", "GraphQL", "Microservices"],
-      architecture: ["System Design", "Scalable Solutions", "Performance Optimization"],
-      databases: ["MongoDB", "SQL", "Redis"]
-    },
-    
-    ai_ml: {
-      technologies: ["LLMs", "TensorFlow", "Deep Learning"],
-      applications: ["NLP", "Computer Vision", "Predictive Analytics"],
-      frameworks: ["PyTorch", "Scikit-learn", "Pandas"]
-    },
-    
-    frontend: {
-      web: ["React", "TypeScript", "Modern CSS"],
-      mobile: ["Flutter", "Responsive Design"],
-      practices: ["UI/UX", "Component Design", "Performance"]
-    },
-    
-    devops: {
-      cloud: ["GCP", "Docker", "Kubernetes"],
-      practices: ["CI/CD", "Infrastructure as Code", "Monitoring"],
-      tools: ["Git", "Jenkins", "Terraform"]
-    }
-  },
-  
-  principles: [
-    "Clean & Maintainable Code",
-    "Continuous Learning & Innovation",
-    "Performance & Scalability",
-    "User-Centric Design"
-  ],
-
-  currentlyLearning: "Advanced NestJS & System Architecture",
-  openTo: "Collaboration & Innovation"
-};
-```
-
-  </details>
+  <kbd>
+    <h4>APIs & Services</h4>
+    <img src="https://img.shields.io/badge/REST_APIs-%23404d59.svg?style=for-the-badge&logo=fastapi&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </kbd>
+  &nbsp;
+  <kbd>
+    <h4>Databases</h4>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </kbd>
 </div>
+</details>
 
-<br/>
-
+<!-- AI & ML -->
+<details open>
+<summary><h3>🤖 Artificial Intelligence & ML</h3></summary>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Transforming%20ideas%20into%20elegant%20solutions%20through%20code&author=Alfred%20Christo" />
+  <kbd>
+    <h4>Core Technologies</h4>
+    <img src="https://img.shields.io/badge/LLMs-00ADD8?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </kbd>
+  &nbsp;
+  <kbd>
+    <h4>Applications</h4>
+    <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Computer_Vision-3776AB?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Analytics-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  </kbd>
 </div>
+</details>
 
-<br/>
+<!-- Frontend Development -->
+<details open>
+<summary><h3>🎨 Frontend Craftsmanship</h3></summary>
+<div align="center">
+  <kbd>
+    <h4>Web Technologies</h4>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Modern_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </kbd>
+  &nbsp;
+  <kbd>
+    <h4>Mobile & Design</h4>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/UI%2FUX-FF3E00?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Responsive-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </kbd>
+</div>
+</details>
 
-<!-- Current Work Section -->
-## 🔭 What I'm Up To
+<!-- DevOps & Cloud -->
+<details open>
+<summary><h3>☁️ DevOps & Cloud</h3></summary>
+<div align="center">
+  <kbd>
+    <h4>Cloud & Containers</h4>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </kbd>
+  &nbsp;
+  <kbd>
+    <h4>CI/CD & Tools</h4>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  </kbd>
+</div>
+</details>
 
+<!-- Development Philosophy -->
+<h2 align="center">💫 Development Philosophy</h2>
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <h3>🏗️ Building</h3>
-        <a href="https://github.com/Alfred-Christo/MediJI">
-          <img src="https://img.shields.io/badge/MediJI-Healthcare_Innovation-brightgreen?style=for-the-badge&logo=github" />
-        </a>
+        <img width="50" src="https://img.icons8.com/color/96/000000/clean-code.png" alt="clean code"/>
+        <br />
+        Clean & Maintainable Code
       </td>
       <td align="center">
-        <h3>📚 Learning</h3>
-        <img src="https://img.shields.io/badge/NestJS-Advanced_Backend-E0234E?style=for-the-badge&logo=nestjs" />
+        <img width="50" src="https://img.icons8.com/color/96/000000/learning.png" alt="continuous learning"/>
+        <br />
+        Continuous Learning
       </td>
       <td align="center">
-        <h3>🌱 Exploring</h3>
-        <img src="https://img.shields.io/badge/AI/ML-Latest_Advancements-FF6F00?style=for-the-badge&logo=tensorflow" />
+        <img width="50" src="https://img.icons8.com/color/96/000000/speed.png" alt="performance"/>
+        <br />
+        Performance & Scalability
+      </td>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/color/96/000000/user-experience.png" alt="user-centric"/>
+        <br />
+        User-Centric Design
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+<!-- Current Focus -->
+<h2 align="center">🎯 Current Focus</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📚 Learning</h3>
+        <img src="https://img.shields.io/badge/Advanced_NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/System_Architecture-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      </td>
+      <td align="center">
+        <h3>🤝 Open To</h3>
+        <img src="https://img.shields.io/badge/Collaboration-4B32C3?style=for-the-badge&logo=handshake&logoColor=white" />
+        <img src="https://img.shields.io/badge/Innovation-FF6B6B?style=for-the-badge&logo=lighthouse&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Inspirational Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" />
+</div>
 
 <div align="center">
-
-<details open>
-<summary><h3>🎨 Frontend Development</h3></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><h3>⚙️ Backend Development</h3></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><h3>🤖 AI/ML Tools</h3></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-</details>
-
-<details open>
-<summary><h3>🔧 DevOps & Tools</h3></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-</details>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,207&height=120&section=footer"/>
 </div>
 
 <!-- Contact Section -->
@@ -188,14 +198,5 @@ const aboutAlfred = {
   
   > _"Vibe coding is actually fun - Because when you love what you do, every line of code becomes a melody! 🎵"_
   
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=120&section=footer"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line"/>
 </div>
 
