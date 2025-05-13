@@ -21,25 +21,74 @@
 <br/>
 
 <!-- About Me Section -->
-## 🚀 About Me
-
-> _"Transforming ideas into elegant solutions through code"_
-
-I am a passionate Software Development Engineer with a strong foundation in Artificial Intelligence and Full Stack Development. My expertise includes:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=539bf5&text=About%20Me&height=150&fontSize=55&desc=Passionate%20Software%20Engineer&descAlignY=75&descAlign=60" />
+</div>
 
 <div align="center">
-  
-  ```javascript
-  const expertise = {
-    backend: ["REST APIs", "Microservices", "System Design"],
-    ai_ml: ["LLMs", "Deep Learning", "TensorFlow"],
-    frontend: ["Responsive Design", "Modern Frameworks", "UI/UX"],
-    cloud: ["GCP", "Scalable Architecture", "DevOps"],
-    philosophy: "Clean Code | Continuous Learning | Innovation"
-  };
-  ```
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=100&lines=A+passionate+Software+Development+Engineer+with+expertise+in+AI+and+Full+Stack+Development.;Turning+complex+problems+into+elegant+solutions+through+clean+code+and+innovative+thinking." alt="Bio" />
 </div>
+
+<br/>
+
+<div align="center">
+  <details open>
+    <summary><h2>🎯 Core Expertise</h2></summary>
+    <br/>
+    
+```javascript
+const aboutAlfred = {
+  title: "Software Development Engineer",
+  focus: ["AI/ML", "Full Stack Development", "System Architecture"],
+  
+  expertise: {
+    backend: {
+      apis: ["REST", "GraphQL", "Microservices"],
+      architecture: ["System Design", "Scalable Solutions", "Performance Optimization"],
+      databases: ["MongoDB", "SQL", "Redis"]
+    },
+    
+    ai_ml: {
+      technologies: ["LLMs", "TensorFlow", "Deep Learning"],
+      applications: ["NLP", "Computer Vision", "Predictive Analytics"],
+      frameworks: ["PyTorch", "Scikit-learn", "Pandas"]
+    },
+    
+    frontend: {
+      web: ["React", "TypeScript", "Modern CSS"],
+      mobile: ["Flutter", "Responsive Design"],
+      practices: ["UI/UX", "Component Design", "Performance"]
+    },
+    
+    devops: {
+      cloud: ["GCP", "Docker", "Kubernetes"],
+      practices: ["CI/CD", "Infrastructure as Code", "Monitoring"],
+      tools: ["Git", "Jenkins", "Terraform"]
+    }
+  },
+  
+  principles: [
+    "Clean & Maintainable Code",
+    "Continuous Learning & Innovation",
+    "Performance & Scalability",
+    "User-Centric Design"
+  ],
+
+  currentlyLearning: "Advanced NestJS & System Architecture",
+  openTo: "Collaboration & Innovation"
+};
+```
+
+  </details>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Transforming%20ideas%20into%20elegant%20solutions%20through%20code&author=Alfred%20Christo" />
+</div>
+
+<br/>
 
 <!-- Current Work Section -->
 ## 🔭 What I'm Up To
