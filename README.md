@@ -82,18 +82,6 @@ I am a passionate Software Development Engineer with a strong foundation in Arti
 </p>
 </details>
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfred-christo&show_icons=true&theme=tokyonight" alt="github-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfred-christo&theme=tokyonight" alt="github-streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfred-christo&layout=compact&theme=tokyonight" alt="top-langs" />
-</div>
-
 <!-- Contact Section -->
 ## 📫 Connect With Me
 
