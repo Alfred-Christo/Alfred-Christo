@@ -106,6 +106,6 @@
 <div align="center">
   <i>"Vibe coding is actually fun "</i>
   <br/><br/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/assets/images/giphy.gif" width="400" alt="Coding GIF"/>
 </div>
 
