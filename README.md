@@ -49,16 +49,6 @@
 </div>
 </details>
 
-<h2 align="center">🎯 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/Alfred-Christo/MediJI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfred-christo&repo=MediJI&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
 <h2 align="center">🌟 Core Expertise</h2>
 
 <div align="center">
