@@ -100,10 +100,6 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/alfred-christo/count.svg" />
-</div>
-
-<div align="center">
   <i>"Vibe coding is actually fun "</i>
   <br/><br/>
   <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="400" alt="Coding GIF"/>
