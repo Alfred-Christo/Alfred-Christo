@@ -29,9 +29,6 @@
   <br/>Building innovative solutions that bridge the gap between complex technology and elegant user experiences.
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfred-christo&theme=radical" width="100%" alt="Alfred's Contribution Graph"/>
-</div>
 
 <h2 align="center">💻 Tech Stack</h2>
 
